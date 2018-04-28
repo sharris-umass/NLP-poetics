@@ -8,4 +8,8 @@ NLP-Poetics is a collection of scripts used to:
   2) parse Old English poetry
   3) find Latin equivalents of Old English words, base forms and inflected forms
   
-Current team: Steve Harris (sharris at umass dot edu), Max Epstein, Jacob Goldman
+Contact: Steve Harris (sharris at umass dot edu)
+
+VERSION HISTORY
+34.27.18  Max Epstein successfully writes and runs (1) poetry scanner that identifies stress, meter, POS, alliteration, acrostics, rhyme, assonance, and poetic form in English poems post 
+1600
