@@ -11,5 +11,7 @@ NLP-Poetics is a collection of scripts used to:
 Contact: Steve Harris (sharris at umass dot edu)
 
 VERSION HISTORY
-34.27.18  Max Epstein successfully writes and runs (1) poetry scanner that identifies stress, meter, POS, alliteration, acrostics, rhyme, assonance, and poetic form in English poems post 
+4.27.18  Max Epstein successfully writes and runs (1) poetry scanner that identifies stress, meter, POS, alliteration, acrostics, rhyme, assonance, and poetic form in English poems post 
 1600
+
+3.30.19  Project on back burner.
